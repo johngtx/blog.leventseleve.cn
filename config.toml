@@ -59,7 +59,7 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
   gitRepo = "https://github.com/johngtx/leventseleve.cn"
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "Le vent se lève, il faut tenter de vivre"        # default: the title value    # 默认值: 上面设置的title值
+  logoTitle = "起风了"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["Hugo", "theme", "even"]
   description = "John's"
 
